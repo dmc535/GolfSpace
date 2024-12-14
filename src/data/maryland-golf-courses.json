@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"city":"Olney","zipcode":"20882","name":"Blue Mash Golf Course","latitude":"39.18875054","url":"http://www.bluemash.com","info":"Private","longitude":"-77.11697611","address":"5821 Olney Laytonsville Rd","category":"GOLF COURSE","phone":"301-670-1966"},"geometry":{"type":"Point","coordinates":[-77.11697841785,39.188758425161]}},
+    {"type":"Feature","properties":{"city":"Bethesda","zipcode":"20817","name":"Burning Tree Country Club","latitude":"38.99654359","url":"http://www.marylandgolf.com/burningtree.html","info":"Private","longitude":"-77.15227981","address":"8600 Burdette Rd","category":"GOLF COURSE","phone":"301-365-2588"},"geometry":{"type":"Point","coordinates":[-77.152282116065,38.996551431961]}}
+  ]
+}
